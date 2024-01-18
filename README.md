@@ -1,3 +1,3 @@
 # WorkoutCalendar
-The purpose of this program is to create a workout calendar with exercises and tips based on inputted preferences.
+(video included) The purpose of this program is to create a workout calendar with exercises and tips based on inputted preferences.
 The user is able to control how many weeks the program will be, if they have a weekly rest day, and what muscle they will exercise each day. The program then stores a random workout for each day and stores it in a 2D array. The video shows the functionality of the program and how it creates a workout calendar based off inputs requesting how many weeks, whether they want a rest day, and which muscle they want to exercise each day. It then outputs generated information about the workout program catered to the user’s preferences. 
